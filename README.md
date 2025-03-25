@@ -58,7 +58,7 @@ $ git clone git@https://github.com/GustaAndrad/integraHubSpot.git
 
 ### 2. Configurar as credenciais do HubSpot
 
-Crie um arquivo dentro de `src/main/resources/` e adicione:
+Entre no arquivo `src/main/resources/application.properties` e adicione:
 
 ```properties
 hubspot.client-id=YOUR_ID_CLIENT
